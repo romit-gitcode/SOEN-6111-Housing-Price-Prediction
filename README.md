@@ -15,7 +15,7 @@ The dataset comprises information about houses in a specific California district
 5. `totalBedrooms`: Total number of bedrooms within a block.
 6. `population`: Total number of people residing within a block.
 7. `households`: Total number of households within a block.
-8. `medianIncome`: Median income for households within a block.
+8. `medianIncome`: Median income for households within a block (measured in tens of thousands of US Dollars).
 9. `medianHouseValue`: Median house value for households within a block.
 10. `oceanProximity`: Indicates the proximity of the house to the ocean/sea.
 
