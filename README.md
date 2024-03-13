@@ -6,6 +6,8 @@ This project aims to predict housing prices in California districts based on var
 ## Dataset Description
 The dataset comprises information about houses in a specific California district, along with summary statistics derived from the 1990 census data. The dataset requires preprocessing due to its unclean nature. The dataset includes the following columns:
 
+*Dataset Source* - https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 1. `longitude`: Represents the westward position of a house.
 2. `latitude`: Indicates the northward position of a house.
 3. `housingMedianAge`: Median age of houses within a block.
@@ -28,7 +30,7 @@ We plan to apply machine learning models to analyze and predict housing characte
 2. **Random Forest Regression**: A more complex ensemble learning technique to capture non-linear relationships and interactions among features.
 
 ## Dataset Characteristics
-- **Number of Instances**: [Provide the number of instances in your dataset]
+- **Number of Instances**: 20640
 - **Number of Features**: 10
 - **Feature Types**: The features include both numerical and categorical variables.
     - Numerical Features: `longitude`, `latitude`, `housingMedianAge`, `totalRooms`, `totalBedrooms`, `population`, `households`, `medianIncome`, `medianHouseValue`
