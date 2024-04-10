@@ -21,8 +21,7 @@ The dataset comprises information about houses in a specific California district
 
 ## Research Questions
 1. Can we predict the median house value based on other features in the dataset?
-2. How does the median income correlate with other housing characteristics?
-
+2. Do we need to introduce new features in order to boost the accuracy?
 ## Model Design
 We plan to apply machine learning models to analyze and predict housing characteristics. Specifically, we aim to utilize regression algorithms due to the nature of the prediction task. Two algorithms will be employed and compared:
 
